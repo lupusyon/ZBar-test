@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="D:\WinSysFolders\AndroidStudioProjects\CameraTest\app\libs\zbar.jar"
+        jar="/Users/danielespiga/AndroidStudioProjects/ZBar-test/app/libs/zbar.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
-        <dex dex="D:\WinSysFolders\AndroidStudioProjects\CameraTest\app\build\intermediates\pre-dexed\debug\zbar-81facc16f637ba4cbfa2c976c1c2010757ae48d7.jar" />
+        <dex dex="/Users/danielespiga/AndroidStudioProjects/ZBar-test/app/build/intermediates/pre-dexed/debug/zbar-752a6efeb8541fa9b35899bd80b5473774a7074b.jar" />
     </item>
 
 </items>
